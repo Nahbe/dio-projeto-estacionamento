@@ -1,12 +1,12 @@
 <div aling="center">
 
 # Sistema de Estacionamento
+</div>
 
 *Bem vindo (a) ao meu projeto!*
 
 <h4>
 <a href="https://dio-projeto-estacionamento-nahbe.vercel.app/"</h4>Ver demonstração | Teste<a/>
-</div>
 
 
 # Projeto:
