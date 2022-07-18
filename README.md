@@ -1,9 +1,8 @@
 <div aling="center">
 
-# <h1>Sistema de Estacionamento</1>
-<p>
+# Sistema de Estacionamento
+
 *Bem vindo (a) ao meu projeto!*
-</p>
 
 <h4>
 <a href="https://dio-projeto-estacionamento-nahbe.vercel.app/"</h4>Ver demonstração | Teste<a/>
